@@ -12,5 +12,8 @@
   },
   "author": "BBlackwo",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/BBlackwo/shelljs-example#readme"
+  "homepage": "https://bitbucket.org/BBlackwo/shelljs-example#readme",
+  "dependencies": {
+    "shelljs": "~0.7.8"
+  }
 }

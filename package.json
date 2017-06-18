@@ -1,0 +1,16 @@
+{
+  "name": "shelljs-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://BBlackwo@bitbucket.org/BBlackwo/shelljs-example.git"
+  },
+  "author": "BBlackwo",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/BBlackwo/shelljs-example#readme"
+}
